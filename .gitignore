@@ -1,7 +1,17 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
 .venv/
 venv/
-.env
-__pycache__/
 
-# data
+# Downloaded/generated datasets
 *.parquet
+
+# Generated experiment outputs
+results/
+
+# Temporary inspection scripts
+src/temp.py
