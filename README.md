@@ -7,7 +7,7 @@
 **School of Basic Sciences, Humanities & Management**  
 **Manipal Institute of Technology, Manipal Academy of Higher Education (MAHE)**
 
-**Authors:** Siddharth Sivakumar, Raghavendra Rishi Rau, Aditya Pankaj Mathpal
+**Authors:** Siddharth Sivakumar, Aditya Pankaj Mathpal, Raghavendra Rishi Rau  
 **Faculty Guide:** Dr. Sunita Sharma
 
 ---
